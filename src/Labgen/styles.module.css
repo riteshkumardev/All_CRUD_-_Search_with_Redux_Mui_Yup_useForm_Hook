@@ -1,0 +1,107 @@
+.nav{
+height: 71px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background-color:  #2E4CBC;
+    display: flex;
+}
+.img1{
+    height: 52px;
+        width: 187px;
+  
+        margin-top: 9px;
+        border-radius: 0px;
+      margin-left: 19px;
+     
+}
+.img2{
+height: 30px;
+    width: 30px;
+    margin-left: 70%;
+        margin-top: 20px;
+    border-radius: 0px;
+    color: white;
+}
+.img3{
+height: 30px;
+    width: 30px;
+    margin-left: 1%;
+        margin-top: 20px;
+    border-radius: 0px;
+    color: white;
+}
+.img4{
+height: 30px;
+    width: 30px;
+    margin-left: 1%;
+        margin-top: 20px;
+    border-radius: 0px;
+    color: white;
+}
+
+.Dlalehzar{
+width: 90px;
+    height: 25px;
+  
+    margin-top: 22px;
+margin-left: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+
+    letter-spacing: 0.1px;
+
+    color: #FFFFFF;
+}
+
+
+.LeftBar{
+    width: 20%;
+    background-color: #E1E4E8;
+    height: 880px;
+    margin-left: 2px;
+/* background-color:#E1E4E8;; */
+
+}
+.systumText{
+    font-family: 'Roboto';
+        font-style: normal;
+        
+        font-size: 20px;
+        line-height: 74px;
+        /* or 150% */
+     text-align: center;
+     margin: auto;
+        letter-spacing: 0.1px;
+    
+        /* Gray 2 */
+    background-color: white;
+     
+}
+.searchBox{
+    width: 85%;
+    margin-left: 28px;
+    margin-top: 28px;
+
+    background-color: white;
+}
+.resetbtn{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 160px;
+}
+.search{
+    margin-top: 30px;
+    
+}
+.table {
+    margin-left: 90px;
+    width: 70%;
+    padding: 50px;
+    margin-top: 80px;
+}

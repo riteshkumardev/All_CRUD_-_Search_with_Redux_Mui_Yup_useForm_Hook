@@ -1,0 +1,7 @@
+.tableRow:nth-child(even) {
+    background-color: #F4F7FC;
+}
+
+.tableBoday:nth-child(even) {
+    background-color: #E5E5E5;
+}

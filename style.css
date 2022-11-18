@@ -1,0 +1,311 @@
+ .box {
+    position: absolute;
+    width: 658px;
+    height: 48px;
+    left: 279px;
+    top: 81px;
+
+    background: #BEDAF4;
+    border-radius: 4px 4px 0px 0px;
+
+
+
+}
+
+.heading {
+    position: absolute;
+    width: 371px;
+    height: 43px;
+    left: 133px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* or 96% */
+
+    text-align: center;
+    letter-spacing: 0.15px;
+
+    /* Gray 1 */
+
+    color: #333333;
+
+
+
+}
+
+.name {
+    position: absolute;
+    width: 564px;
+    height: 18px;
+    left: 111px;
+    top: 140px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+
+    color: #666666;
+
+
+
+}
+
+.box1 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    position: absolute;
+    width: 445px;
+    height: 1px;
+    left: 377px;
+    top: 161px;
+
+    /* W Background */
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    font-size: 8px;
+
+
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 920px;
+    top: 658px;
+
+    background: #0215C9;
+    border-radius: 8px;
+
+
+}
+
+.Save {
+    position: static;
+    width: 73px;
+    height: 24px;
+    left: 56px;
+    top: 0px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+
+    text-align: center;
+
+    /* W Background */
+
+    color: white;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+    margin-top: -13px;
+    margin-left: -7px;
+}
+
+.address {
+
+    position: absolute;
+    width: 564px;
+    height: 58px;
+    left: 120px;
+    top: 203px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */
+
+
+    color: #666666;
+
+
+}
+
+.box2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    position: absolute;
+    width: 447px;
+    height: 120px;
+    left: 377px;
+    top: 226px;
+    font-size: 8px;
+    /* W Background */
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+
+
+}
+
+.phonenumber {
+    position: absolute;
+    width: 564px;
+    height: 18px;
+    left: 136px;
+    top: 394px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+
+    color: #666666;
+
+
+
+
+}
+
+.box3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    position: absolute;
+    width: 452px;
+    height: 2px;
+    left: 375px;
+    top: 421px;
+
+    /* W Background */
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    font-size: 8px;
+
+
+
+
+}
+
+.salegroup {
+    position: absolute;
+    width: 564px;
+    height: 18px;
+    left: 127px;
+    top: 474px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+
+    color: #666666;
+
+
+
+}
+
+.npi {
+    position: absolute;
+    width: 564px;
+    height: 18px;
+    left: 107px;
+    top: 551px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+
+    color: #666666;
+
+
+
+
+}
+
+.box4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    position: absolute;
+    width: 455px;
+    height: 3px;
+    left: 374px;
+    top: 500px;
+
+    /* W Background */
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    font-size: 8px;
+
+
+
+
+}
+
+.box5 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    font-size: 8px;
+    position: absolute;
+    width: 461px;
+    height: 4px;
+    left: 374px;
+    top: 579px;
+
+    /* W Background */
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+
+
+
+
+
+}
